@@ -1,0 +1,6 @@
+{
+  "name": "pkg-b",
+  "devDependencies": {
+    "pkg-a": "portal:../pkg-a"
+  }
+}
